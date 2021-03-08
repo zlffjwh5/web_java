@@ -1,3 +1,5 @@
 # web_java
  study myself
-I LOVE MYSLER GG
+
+THIS is my self study record for web-programing course on KH 
+very basic course please don't Don't laugh at me. haha :) 
