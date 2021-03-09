@@ -6,5 +6,7 @@ public class Case_01 {
 		//hello world~
 		// every code learning started 'hello wrold' but this is java course 
 		//so I'd started with 'hello java' :)
+		//hi
+		
 	}
 }
